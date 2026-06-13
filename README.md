@@ -1,4 +1,4 @@
-# Supreethraj_Task18
+# Supreethraj_Task17
 
 This project demonstrates using JavaScript `Promise` to perform division with error handling.
 
